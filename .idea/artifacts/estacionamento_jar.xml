@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="estacionamento:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/estacionamento_jar</output-path>
+    <root id="archive" name="estacionamento.jar">
+      <element id="module-output" name="estacionamento" />
+    </root>
+  </artifact>
+</component>
